@@ -1,4 +1,4 @@
-import { HelloWorld } from "./HelloWorld";
+import HelloWorld from "./HelloWorld";
 import { ComponentMeta } from "@storybook/react";
 import * as React from "react";
 
